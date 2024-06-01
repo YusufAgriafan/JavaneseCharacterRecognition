@@ -1,0 +1,10 @@
+0	normal
+1	5º
+2	10º
+3	-5º
+4	-10º
+5	smudge random
+6	smudge random
+7	twirl 50 + -30ºish
+8	motion blur 2px
+9	sharpen more
